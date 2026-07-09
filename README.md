@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0169-majority-element) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0169-majority-element) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
