@@ -62,4 +62,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
