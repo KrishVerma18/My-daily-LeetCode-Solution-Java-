@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0169-majority-element) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0120-triangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0169-majority-element) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -62,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -70,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0234-palindrome-linked-list) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -78,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
