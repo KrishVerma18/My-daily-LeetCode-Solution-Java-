@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
