@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0169-majority-element) |
+| [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0169-majority-element) |
+| [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
@@ -137,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Geometry
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
