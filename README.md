@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0120-triangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0268-missing-number) |
 | [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
