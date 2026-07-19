@@ -221,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1046-last-stone-weight) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
