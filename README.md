@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0391-perfect-rectangle](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0391-perfect-rectangle) |
 | [0636-exclusive-time-of-functions](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0739-daily-temperatures) |
+| [1046-last-stone-weight](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1046-last-stone-weight) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/0232-implement-queue-using-stacks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/KrishVerma18/My-daily-LeetCode-Solution-Java-/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
